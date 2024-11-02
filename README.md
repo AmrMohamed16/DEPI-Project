@@ -71,7 +71,20 @@ This project processes and analyzes airline reviews to identify trends in custom
    •  The CSV file contains data related to passengers info, flight info, reviews info and they were read using the appropriate file paths and encoding.
 
 
-   • Checking For Nulls :
+   • Checking For Nulls : 
+   
+   
+  <img width="806" alt="Check for nulls" src="https://github.com/user-attachments/assets/2417e911-c41e-4395-bac9-72f9deb2a9da">
+
+  • The code checks for null values in the specified columns and provides a simple report on their presence or absence.
+
+
+  • Checking For Missing Data : 
+
+   We used the isnull().sum() function to check for missing values in each column.
+
+   
+  
 
    
 
