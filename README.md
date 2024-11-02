@@ -110,8 +110,13 @@ Transforming Passenger Feedback into Actionable Insights: An In-Depth Data Engin
 
 # Analysis Process
 
+  • Most Travelled To City :
+
+    
+
 
 # Dataware Housing
+
   • Schema :
 
    <img width="886" alt="Screenshot 2024-11-02 at 7 55 59 pm" src="https://github.com/user-attachments/assets/94d7179b-bb9c-4336-87dd-8b10297e813b">
@@ -123,8 +128,9 @@ Transforming Passenger Feedback into Actionable Insights: An In-Depth Data Engin
 
    • Slowly changing dimention (SCD):
      The SCD data flow represents a process for handling slowly changing dimensions (SCD) in a data warehouse: 
+     
 
-
+   <img width="683" alt="Screenshot 2024-11-02 at 8 05 51 pm" src="https://github.com/user-attachments/assets/2c373e14-c839-446a-ba07-278ba8777f2c">
 
      
      
@@ -143,7 +149,8 @@ Transforming Passenger Feedback into Actionable Insights: An In-Depth Data Engin
    7. Insert Destination: Loads the final data into the target table.
 
       
-
+   • Summary : 
+    This flow is designed to handle slowly changing dimensions in a data warehouse environment. It checks if records already exist, updates existing records, inserts new ones, and      manages historical changes (Type 2 SCD) by creating new rows with the updated information. The various components ensure that both new data and updates are handled appropriately      before inserting them into the final destination table.
 
 # Data visulization
 
