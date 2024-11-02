@@ -9,11 +9,11 @@ Transforming Passenger Feedback into Actionable Insights: An In-Depth Data Engin
 * [Brief](#Brief)
 * [DataSet](#DataSet)
 * [Tools](#Tools)
-* [Cleaning Process](#Cleaning_Process)
-* [Analysis Process](#Analysis_Process)
-* [Dataware Housing](#Dataware_Housing)
-* [Data visulization](#Data_visulization)
-* [Machine Learning](#Machine_Learning)
+* [Cleaning Process](#CleaningProcess)
+* [Analysis Process](#AnalysisProcess)
+* [Dataware Housing](#DatawareHousing)
+* [Data visulization](#Datavisulization)
+* [Machine Learning](#MachineLearning)
 * [Conclusion](#Conclusion)
   
 
