@@ -33,25 +33,39 @@ This project processes and analyzes airline reviews to identify trends in custom
 
 # Tools 
   Python Libraries:
-    • Pandas: For data cleaning, manipulation, and organization.
-    • NumPy: For efficient numerical operations and handling arrays.
-    • Matplotlib & Seaborn: For creating visualizations and statistical graphs.
+  
+   • Pandas: For data cleaning, manipulation, and organization. 
+    
+   • NumPy: For efficient numerical operations and handling arrays.
+    
+   • Matplotlib & Seaborn: For creating visualizations and statistical graphs.
+    
   SQL:
-    • Database creation and management, including table design and importing data.
-    • Complex SQL queries for analysis, such as calculating average ratings, identifying popular routes, 
-    and exploring customer satisfaction by seat class.
+  
+   • Database creation and management, including table design and importing data. 
+   
+   • Complex SQL queries for analysis, such as calculating average ratings, identifying popular routes, 
+   
+   and exploring customer satisfaction by seat class.
+    
   SSMS (SQL Server Management Studio):
-    • To manage the database and implement the schema.
+  
+   • To manage the database and implement the schema.
+   
   Power BI:
-    • For creating interactive dashboards and visualizing trends, customer feedback, seasonal travel patterns, and recommendations.
+  
+   • For creating interactive dashboards and visualizing trends, customer feedback, seasonal travel patterns, and recommendations.
+   
   Data Warehouse Concepts:
-    • Designing and implementing Slowly Changing Dimensions (SCDs) to track data changes over time, essential for historical analysis.
+   • Designing and implementing Slowly Changing Dimensions (SCDs) to track data changes over time, essential for historical analysis.
 
 # Cleaning Process
 
    • To load the dataset, we used the pandas library's read_csv() function to import CSV files into dataframes.
+   
    • This allow us to easily work with the data and inspect its structure.
-   •  The CSV file contains data related to passengers info, flight info, reviews info and they were read using the appropriate file paths          and encoding.
+   
+   •  The CSV file contains data related to passengers info, flight info, reviews info and they were read using the appropriate file paths and encoding.
 
 # Analysis Process
 
