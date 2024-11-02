@@ -59,6 +59,9 @@ This project processes and analyzes airline reviews to identify trends in custom
   Data Warehouse Concepts:
    • Designing and implementing Slowly Changing Dimensions (SCDs) to track data changes over time, essential for historical analysis.
 
+
+   
+
 # Cleaning Process
 
    • To load the dataset, we used the pandas library's read_csv() function to import CSV files into dataframes.
@@ -66,6 +69,11 @@ This project processes and analyzes airline reviews to identify trends in custom
    • This allow us to easily work with the data and inspect its structure.
    
    •  The CSV file contains data related to passengers info, flight info, reviews info and they were read using the appropriate file paths and encoding.
+
+
+   • Checking For Nulls :
+
+   ()
 
 # Analysis Process
 
