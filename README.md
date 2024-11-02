@@ -77,7 +77,7 @@ Transforming Passenger Feedback into Actionable Insights: An In-Depth Data Engin
     For creating interactive dashboards and visualizing trends, customer feedback, seasonal travel patterns, and recommendations.
    
    
-  * Data Warehouse Concepts:
+  * Sql Sever Integration Services (SSIS):
   
     Designing and implementing Slowly Changing Dimensions (SCDs) to track data changes over time, essential for historical analysis.
 
