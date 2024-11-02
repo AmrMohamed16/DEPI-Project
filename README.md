@@ -75,13 +75,17 @@ This project processes and analyzes airline reviews to identify trends in custom
    
    
   <img width="806" alt="Check for nulls" src="https://github.com/user-attachments/assets/2417e911-c41e-4395-bac9-72f9deb2a9da">
+  
 
   • The code checks for null values in the specified columns and provides a simple report on their presence or absence.
+  
 
 
   • Checking For Missing Data : 
 
    We used the isnull().sum() function to check for missing values in each column.
+
+   <img width="248" alt="Screenshot 2024-11-02 at 7 42 13 pm" src="https://github.com/user-attachments/assets/8065645e-0353-4563-9b49-279dcfe52289">
 
    
   
