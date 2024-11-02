@@ -210,7 +210,9 @@ Transforming Passenger Feedback into Actionable Insights: An In-Depth Data Engin
 
 # Data visulization
 
+  * Dashboard :
 
+    <img width="1025" alt="Screenshot 2024-11-02 at 8 30 16 pm" src="https://github.com/user-attachments/assets/d5dcc770-43cb-4102-84ac-abd765310326">
 
 
 # Machine Learning
