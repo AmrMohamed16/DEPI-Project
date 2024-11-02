@@ -101,13 +101,20 @@ Transforming Passenger Feedback into Actionable Insights: An In-Depth Data Engin
 
   Duplicates are checked and removed from the dataset to avoid redundant data affecting the analysis.
 
-   
+
+  <img width="756" alt="Dup" src="https://github.com/user-attachments/assets/87bebe98-dce8-4237-8395-804aa5e9fdac">
+
+
+  
+    
 
 # Analysis Process
 
 
 # Dataware Housing
+  • Schema :
 
+    
 
 # Data visulization
 
