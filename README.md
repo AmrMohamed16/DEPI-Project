@@ -9,7 +9,7 @@ Transforming Passenger Feedback into Actionable Insights: An In-Depth Data Engin
 * [Brief](#Brief)
 * [DataSet](#DataSet)
 * [Tools](#Tools)
-* [Cleaning Process](#CleaningProcess)
+* [Cleaning Process](#Cleaning_Process)
 * [Analysis Process](#AnalysisProcess)
 * [Dataware Housing](#DatawareHousing)
 * [Data visulization](#Datavisulization)
@@ -83,7 +83,7 @@ Transforming Passenger Feedback into Actionable Insights: An In-Depth Data Engin
 
    
 
-# Cleaning Process
+# Cleaning_Process
 
    • To load the dataset, we used the pandas library's read_csv() function to import CSV files into dataframes.
    
