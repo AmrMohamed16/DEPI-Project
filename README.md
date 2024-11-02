@@ -20,7 +20,7 @@ Transforming Passenger Feedback into Actionable Insights: An In-Depth Data Engin
 
 # Contributors
 
-  * [Amr Mohamed](#https://github.com/AmrMohamed16)
+  * [Amr Mohamed](https://github.com/AmrMohamed16)
   
   * Omar Ashraf
   
