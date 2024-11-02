@@ -114,7 +114,36 @@ Transforming Passenger Feedback into Actionable Insights: An In-Depth Data Engin
 # Dataware Housing
   • Schema :
 
-    
+   <img width="886" alt="Screenshot 2024-11-02 at 7 55 59 pm" src="https://github.com/user-attachments/assets/94d7179b-bb9c-4336-87dd-8b10297e813b">
+
+   
+
+   We used A star schema because it simplifies queries, making it easier to analyze data, and improves performance by reducing the need for complex joins. It organizes data in a clear way, grouping related details like customer and flight information, which makes insights more accessible. It also scales well, allowing for easy expansion as new data is added. By focusing on key metrics and dimensions, the star schema enables faster discovery of trends, like customer satisfaction by airline or seasonal travel patterns.
+
+
+   • Slowly changing dimention (SCD):
+     The SCD data flow represents a process for handling slowly changing dimensions (SCD) in a data warehouse: 
+
+
+
+     
+     
+   1. Data Source: Extracts data from a database.
+   
+   2. Lookup: Checks if the incoming records already exist in the target table.
+
+   3. Slowly Changing Dimension (SCD): Identifies if a record is new, needs updating, or should keep historical data (e.g., Type 1 or Type 2 SCD).
+
+   4. OLE DB Commands: Updates existing records where necessary. 
+
+   5. Union All: Combines updated and new records for further processing.
+
+   6. Derived Column: Modifies data before final insertion.
+
+   7. Insert Destination: Loads the final data into the target table.
+
+      
+
 
 # Data visulization
 
