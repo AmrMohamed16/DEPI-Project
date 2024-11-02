@@ -20,13 +20,18 @@ Transforming Passenger Feedback into Actionable Insights: An In-Depth Data Engin
 
 # Contributors
 
+  • [Amr Mohamed](#https://github.com/AmrMohamed16)
+  • Omar Ashraf
+  • Yassen Elattar
+  • Saher Mohamed
+
 # Brif
 
-This project processes and analyzes airline reviews to identify trends in customer satisfaction across flight features like comfort and service quality. Using data engineering techniques, it organizes and structures feedback, revealing key drivers behind positive or negative experiences. The insights generated aim to support airlines in enhancing services and boosting customer satisfaction.
+  This project processes and analyzes airline reviews to identify trends in customer satisfaction across flight features like comfort and service quality. Using data engineering      techniques, it organizes and structures feedback, revealing key drivers behind positive or negative experiences. The insights generated aim to support airlines in enhancing         services and boosting customer satisfaction.
 
 # DataSet 
 
-  The dataset contains 8,093 airline reviews from passengers, offering insights into various aspects of their flight experiences. Each entry  includes details such as the reviewer's name, the airline, the class of service, 
+  The dataset contains 8,093 airline reviews from passengers, offering insights into various aspects of their flight experiences. Each entry  includes details such as the reviewer's   name, the airline, the class of service, 
  and ratings for factors like seat comfort, staff service, food, and inflight entertainment. 
  The dataset also captures flight-specific information, such as the departure and destination locations, as well as whether the reviewer      recommends the airline. This
  data can be used to analyze customer satisfaction and identify key drivers behind positive or negative reviews in the airline industry.
@@ -47,16 +52,20 @@ This project processes and analyzes airline reviews to identify trends in custom
    • Complex SQL queries for analysis, such as calculating average ratings, identifying popular routes, 
    
    and exploring customer satisfaction by seat class.
+   
     
   SSMS (SQL Server Management Studio):
   
    • To manage the database and implement the schema.
    
+   
   Power BI:
   
    • For creating interactive dashboards and visualizing trends, customer feedback, seasonal travel patterns, and recommendations.
    
+   
   Data Warehouse Concepts:
+  
    • Designing and implementing Slowly Changing Dimensions (SCDs) to track data changes over time, essential for historical analysis.
 
 
@@ -88,7 +97,9 @@ This project processes and analyzes airline reviews to identify trends in custom
    <img width="248" alt="Screenshot 2024-11-02 at 7 42 13 pm" src="https://github.com/user-attachments/assets/8065645e-0353-4563-9b49-279dcfe52289">
 
    
-  
+  • Checking For Duplicates :
+
+  Duplicates are checked and removed from the dataset to avoid redundant data affecting the analysis.
 
    
 
