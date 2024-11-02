@@ -28,7 +28,7 @@ Transforming Passenger Feedback into Actionable Insights: An In-Depth Data Engin
   
   * Saher Mohamed
 
-# Brif
+# Brief
 
 
   This project processes and analyzes airline reviews to identify trends in customer satisfaction across flight features like comfort and service quality. Using data engineering      techniques, it organizes and structures feedback, revealing key drivers behind positive or negative experiences. The insights generated aim to support airlines in enhancing         services and boosting customer satisfaction.
