@@ -134,6 +134,7 @@ Transforming Passenger Feedback into Actionable Insights: An In-Depth Data Engin
 
    <img width="644" alt="Most travel" src="https://github.com/user-attachments/assets/07cc31ef-3894-4159-a599-6bd10beab5bd">
 
+ This query is designed to retrieve the top 5 most traveled-to cities from the Dim_Flight table, based on the number of flights.
 
    Result: 
 
@@ -149,7 +150,7 @@ Transforming Passenger Feedback into Actionable Insights: An In-Depth Data Engin
 
    <img width="635" alt="From" src="https://github.com/user-attachments/assets/948eb685-62cf-4cd2-b339-68f7281546bc">
 
-
+   This query is designed to retrieve the top 5 most traveled-from cities from the Dim_Flight table, based on the number of flights.
 
   Result: 
 
@@ -170,6 +171,8 @@ Transforming Passenger Feedback into Actionable Insights: An In-Depth Data Engin
    Result : 
 
     
+  <img width="300" alt="ggg" src="https://github.com/user-attachments/assets/2e00eda2-1601-4111-acfb-85b24bc96da7">
+  <img width="500" alt="reww" src="https://github.com/user-attachments/assets/895b0162-e5ef-4907-9177-f06f114a2ef6">
 
 
 # Dataware_Housing
