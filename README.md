@@ -161,6 +161,14 @@ Transforming Passenger Feedback into Actionable Insights: An In-Depth Data Engin
   * relation between seat class and rating :
 
 
+    <img width="580" alt="Relation" src="https://github.com/user-attachments/assets/89558a00-8e39-4d2e-8c11-30226326d30e">
+    
+   This SQL query retrieves the relationship between seat class (e.g., First Class, Business Class, etc.) and the average overall rating given by passengers. 
+   The query joins the Dim_Passenger table and the Dim_reviews table to compute the average rating for each class ofservice.
+
+
+   Result : 
+
     
 
 
