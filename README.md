@@ -10,10 +10,10 @@ Transforming Passenger Feedback into Actionable Insights: An In-Depth Data Engin
 * [DataSet](#DataSet)
 * [Tools](#Tools)
 * [Cleaning Process](#Cleaning_Process)
-* [Analysis Process](#AnalysisProcess)
-* [Dataware Housing](#DatawareHousing)
-* [Data visulization](#Datavisulization)
-* [Machine Learning](#MachineLearning)
+* [Analysis Process](#Analysis_Process)
+* [Dataware Housing](#Dataware_Housing)
+* [Data visulization](#Data_Visulization)
+* [Machine Learning](#Machine_Learning)
 * [Conclusion](#Conclusion)
   
 
@@ -39,8 +39,9 @@ Transforming Passenger Feedback into Actionable Insights: An In-Depth Data Engin
 
   The dataset contains 8,093 airline reviews from passengers, offering insights into various aspects of their flight experiences. Each entry  includes details such as the reviewer's   name, the airline, the class of service, 
  and ratings for factors like seat comfort, staff service, food, and inflight entertainment. 
- The dataset also captures flight-specific information, such as the departure and destination locations, as well as whether the reviewer      recommends the airline. This
- data can be used to analyze customer satisfaction and identify key drivers behind positive or negative reviews in the airline industry.
+ The dataset also captures flight-specific information, such as the departure and destination locations, as well as whether the reviewer recommends the airline. 
+ This data can be used to analyze customer satisfaction and identify key drivers behind positive or negative reviews in the airline industry.
+ You can check it out [Data](https://github.com/AmrMohamed16/DEPI-Project-/blob/main/Air.csv)
 
 
 # Tools 
@@ -126,7 +127,7 @@ Transforming Passenger Feedback into Actionable Insights: An In-Depth Data Engin
     
 
 
-# Analysis Process
+# Analysis_Process
 
   • Most Travelled To City :
   
@@ -160,7 +161,7 @@ Transforming Passenger Feedback into Actionable Insights: An In-Depth Data Engin
 
 
 
-# Dataware Housing
+# Dataware_Housing
 
 
 
@@ -208,7 +209,7 @@ Transforming Passenger Feedback into Actionable Insights: An In-Depth Data Engin
    
   This flow is designed to handle slowly changing dimensions in a data warehouse environment. It checks if records already exist, updates existing records, inserts new ones, and      manages historical changes (Type 2 SCD) by creating new rows with the updated information. The various components ensure that both new data and updates are handled appropriately      before inserting them into the final destination table.
 
-# Data visulization
+# Data_Visulization
 
   * Dashboard :
 
@@ -258,7 +259,7 @@ Transforming Passenger Feedback into Actionable Insights: An In-Depth Data Engin
 
 
 
-# Machine Learning
+# Machine_Learning
 
 
 <img width="879" alt="Screenshot 2024-11-02 at 8 49 56 pm" src="https://github.com/user-attachments/assets/7e292568-762c-45fb-af78-c7157b5b68cc">
