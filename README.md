@@ -129,7 +129,7 @@ Transforming Passenger Feedback into Actionable Insights: An In-Depth Data Engin
 
 # Analysis_Process
 
-  • Most Travelled To City :
+  * Most Travelled To City :
   
 
    <img width="644" alt="Most travel" src="https://github.com/user-attachments/assets/07cc31ef-3894-4159-a599-6bd10beab5bd">
@@ -144,7 +144,7 @@ Transforming Passenger Feedback into Actionable Insights: An In-Depth Data Engin
     
 
 
-  • Most Travelled From City : 
+  * Most Travelled From City : 
 
 
    <img width="635" alt="From" src="https://github.com/user-attachments/assets/948eb685-62cf-4cd2-b339-68f7281546bc">
@@ -158,7 +158,10 @@ Transforming Passenger Feedback into Actionable Insights: An In-Depth Data Engin
 
   
 
+  * relation between seat class and rating :
 
+
+    
 
 
 # Dataware_Housing
@@ -266,6 +269,25 @@ Transforming Passenger Feedback into Actionable Insights: An In-Depth Data Engin
 
 
 <img width="879" alt="Screenshot 2024-11-02 at 8 51 10 pm" src="https://github.com/user-attachments/assets/0436b400-6267-4444-855e-e3fb3fa1e976">
+
+
+Review Rating Classification : 
+
+This project implements a sentiment classification model that predicts the rating labels of customer reviews based on their overall ratings.
+The model uses logistic regression and TF-IDF vectorization to process text data, providing a simple yet effective solution for understanding customer feedback.
+
+Project Overview : 
+
+The code reads a dataset containing customer reviews and their corresponding overall ratings, preprocesses the data, and trains a logistic regression model to classify the reviews into 'high' or 'low' rating labels. The model's performance is evaluated using accuracy scores and a classification report, and the results are saved for further analysis.
+
+Key Features : 
+
+ * Data preprocessing to handle missing values and convert ratings to numerical format.
+ * TF-IDF vectorization for transforming text data into numerical features.
+ * Logistic regression model for classification.
+ * Evaluation metrics including accuracy, precision, recall, and F1-score.
+ * Saving results to CSV files for easy access and analysis.
+
 
 
 
