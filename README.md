@@ -20,13 +20,13 @@ Transforming Passenger Feedback into Actionable Insights: An In-Depth Data Engin
 
 # Contributors
 
-  * [Amr Mohamed](https://github.com/AmrMohamed16)
+  * [Amr Mohamed](https://github.com/AmrMohamed16)  ETL Process and Dashboard
   
-  * Omar Ashraf
+  * Omar Ashraf Analysis Process
   
-  * Yassen Elattar
+  * Yassen Elattar Data Cleaning
   
-  * Saher Mohamed
+  * Saher Mohamed Machine Learning
 
 # Brief
 
